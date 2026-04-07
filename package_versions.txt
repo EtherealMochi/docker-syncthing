@@ -59,7 +59,7 @@ github.com/rcrowley/go-metrics       v0.0.0-20250401214520-65e299d6c5c9    go-mo
 github.com/remyoudompheng/bigfft     v0.0.0-20230129092748-24d4a6f8daec    go-module    
 github.com/riywo/loginshell          v0.0.0-20200815045211-7d26008be1ab    go-module    
 github.com/russross/blackfriday/v2   v2.1.0                                go-module    
-github.com/shirou/gopsutil/v4        v4.26.1                               go-module    
+github.com/shirou/gopsutil/v4        v4.26.2                               go-module    
 github.com/stretchr/objx             v0.5.2                                go-module    
 github.com/stretchr/testify          v1.11.1                               go-module    
 github.com/syncthing/notify          v0.0.0-20250528144937-c7027d4f7465    go-module    
@@ -73,8 +73,8 @@ github.com/vitrun/qart               v0.0.0-20160531060029-bf64b92db6b0    go-mo
 github.com/willabides/kongplete      v0.4.0                                go-module    
 go.yaml.in/yaml/v2                   v2.4.2                                go-module    
 golang.org/x/crypto                  v0.48.0                               go-module    
-golang.org/x/exp                     v0.0.0-20260209203927-2842357ff358    go-module    
-golang.org/x/net                     v0.50.0                               go-module    
+golang.org/x/exp                     v0.0.0-20260218203240-3dfff04db8fa    go-module    
+golang.org/x/net                     v0.51.0                               go-module    
 golang.org/x/sys                     v0.41.0                               go-module    
 golang.org/x/text                    v0.34.0                               go-module    
 golang.org/x/time                    v0.14.0                               go-module    
@@ -98,7 +98,7 @@ linux-pam                            1.7.1-r2                              apk
 modernc.org/libc                     v1.67.6                               go-module    
 modernc.org/mathutil                 v1.7.1                                go-module    
 modernc.org/memory                   v1.11.0                               go-module    
-modernc.org/sqlite                   v1.45.0                               go-module    
+modernc.org/sqlite                   v1.46.1                               go-module    
 musl                                 1.2.5-r21                             apk          
 musl-utils                           1.2.5-r21                             apk          
 ncurses-terminfo-base                6.5_p20251123-r0                      apk          
